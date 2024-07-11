@@ -28,6 +28,7 @@ STATE_ABBREVIATIONS = {
     'Thüringen':'TH',
     'Sachsen-Anhalt':'ST',
     'Mecklenburg-Vorpommern':'MV',
+    'Nordrhein-Westfalen':'NRW'
 }
 
 class CustomBooleanSelect(Select):
