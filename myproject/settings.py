@@ -61,7 +61,7 @@ MIDDLEWARE = [
     'myapp.middleware.SimplePasswordMiddleware',
 ]
 
-SIMPLE_PASSWORD = '123'
+SIMPLE_PASSWORD = 'Prototyp_Berlin_2024!'
 UNPROTECTED_URLS = ['/password/', '/static/']
 
 ROOT_URLCONF = "myproject.urls"
